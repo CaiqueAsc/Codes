@@ -23,5 +23,3 @@ union all
 
 Select *
 from fb
-
--- I could use an Except() function in the Select to make the renames smaller, but I think this way is easier to visualize what I did. (Coloco esse comentario ou não? Se usasse essa função daria problema na ordem das colunas talvez)
